@@ -76,7 +76,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 Welcome to my GitHub Page
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&center=true&width=440&lines=Flutter%2F;Software+Engineering+Student">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&center=true&width=440&;Software+Engineering+Student">
   <p align="center">  
 
 
