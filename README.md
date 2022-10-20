@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/>
 </div>
@@ -70,3 +70,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+-->
+### Hi there, I'm Said Semih Yalçın 👋
+<h1 align="center">
+Welcome to my GitHub Page
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&center=true&width=440&lines=Flutter%2F;Software+Engineering+Student">
+  <p align="center">  
+
+
