@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-<!-- <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/> -->
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!-- <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/ width="50"> -->
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
 </div>
 
 
